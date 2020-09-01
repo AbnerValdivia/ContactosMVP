@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nombre_tamanio">33dp</dimen>
+    <dimen name="texto">20sp</dimen>
+    <dimen name="marginleft">10dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="corner_radius_view">4dp</dimen>
+    <dimen name="nombre_cardview">20dp</dimen>
+    <dimen name="liketamanio">38dp</dimen>
+    <dimen name="imgBone">27dp</dimen>
+</resources>
